@@ -1,8 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Setup 
 
-In the project directory, you can run:
+
+Create a .env file  and add you Firebase credentials: 
+
+REACT_APP_FIREBASE_API_KEY =
+REACT_APP_FIREBASE_AUTH_DOMAIN = 
+REACT_APP_FIREBASE_PROJECT_ID = 
+REACT_APP_FIREBASE_STORAGE_BUCKET =
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID = 
+REACT_APP_FIREBASE_APP_ID = 
+
+
 
 ### `npm start`
 
